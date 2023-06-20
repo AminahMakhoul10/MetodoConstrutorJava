@@ -1,0 +1,2 @@
+# MetodoConstrutorJava
+Exemplo metodo construtor
